@@ -1,4 +1,4 @@
-# captcha-break
+# captcha-break 验证码识别
 captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
 ## Types
 ### [Basic](./basic)
